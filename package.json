@@ -1,10 +1,10 @@
 {
-  "name": "",
-  "title": "",
-  "displayName": "",
+  "name": "new0",
+  "title": "new0-theme",
+  "displayName": "New0",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "",
+  "description": "New0 theme, light blue and reddish",
   "license": "GPL-3.0",
   "engines": {
     "nylas": "*"
